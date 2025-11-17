@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository.
 2. Run `mvn clean install`.
-3. The run `mvn spring-boot:run`.
+3. Then run `mvn spring-boot:run`.
 
 ## Usage
 
