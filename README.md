@@ -7,7 +7,7 @@ This Spring Boot application provides a RESTful API service that generates a lis
 * Caching: Responses are cached to improve performance for repeated requests.
 * Asynchronous Processing: The calculation runs asynchronously to free up the request thread.
 * Swagger Documentation: Built-in interactive API documentation using springdoc-openapi.
-* Cross-Origin Resource Sharing (CORS): Configured to allow requests from a local frontend application running at `http://localhost:3000`.
+* Cross-Origin Resource Sharing (CORS): Configured to allow requests from the [prime-generator-frontend application](https://github.com/nenebeji/prime-generator-frontend) running at `http://localhost:3000`.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
